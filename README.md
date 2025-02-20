@@ -30,7 +30,7 @@ This is your group's GitHub repository for the presentation and technical report
  - Submit the report and replication code through the GitHub Classroom repositories. 
  - Your team's assessment will be based on the technical report, including R code, documentation, and other relevant parts residing in this repository.
  - Your code must be documented and reproducible. All used datasets should be made accessible.
- - The slides and presentation will be evaluated on the day of your team's presentation.![image](https://github.com/user-attachments/assets/0f87e890-b7c1-4796-9385-6e146e01b6a6)
+ - The slides and presentation will be evaluated on the day of your team's presentation.
  
 ### Instructions
 For all tasks of the group examination, observe the following instructions.
