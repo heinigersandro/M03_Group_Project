@@ -1,0 +1,29 @@
+---
+title: "Project Disposition: PROJECT-TITLE"
+subtitle: "Big Data Analytics, Group Examination: GROUPNAME"
+author:
+- Author1 (Student ID)
+- Author2 (Student ID)
+- Author3 (Student ID)
+- Author4 (Student ID)
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Research Question(s)
+
+<!-- Briefly state and motivate your main research question. Ensure that the research questions align with the capabilities of big data analytics (e.g., predictive analysis, pattern recognition, causal analysis, etc.) -->
+
+# Methods/Empirical Strategy
+
+<!-- How do you plan to analyze the data? Which type of statistical method (regression analysis, machine learning algorithm, etc.) do you plan to apply? -->
+
+# Data Source(s)
+
+<!-- What is the main data source/data set you will be working with? How big will the main data set be (in GB)? -->
+
